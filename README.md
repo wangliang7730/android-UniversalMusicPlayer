@@ -1,6 +1,8 @@
 Universal Android Music Player Sample
 =====================================
-
+　
+　这个开源项目展示了如何实现一个横跨各种 Android 平台的音乐播放器，包括手机，平板，汽车，手表，电视等。
+　
 This sample shows how to implement an audio media app that works
 across multiple form factors and provide a consistent user experience
 on Android phones, tablets, Android Auto, Android Wear, Android TV and Google Cast devices.
